@@ -1,7 +1,6 @@
-# GDN
+# GC-net
 Grid-DBSCAN in GC-net  
-based on Scipy & scikit  
+based on Scipy & scikit & Pytorch  
 https://www.scipy.org/  
 https://scikit-learn.org  
-Add it into the  
-scikit-learn/sklearn/cluster/
+https://pytorch.org/  
