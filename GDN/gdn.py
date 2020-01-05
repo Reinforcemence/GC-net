@@ -31,7 +31,7 @@ from .cython import gdn_inner
     min_samples : int, optional
         The number of samples (or total weight) in a neighborhood for a point
         to be considered as a core point. This includes the point itself.
-    Neb : int array
+    Neb : float, array
         Size of the neighborhood of index.
         algorithm : {'auto', 'ball_tree', 'kd_tree', 'brute'}, optional
         The algorithm to be used by the NearestNeighbors module
